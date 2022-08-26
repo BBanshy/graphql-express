@@ -1,40 +1,40 @@
 {
-    "users": [
-        {
-            "id": "45",
-            "firstName": "Nicole",
-            "age": 25,
-            "companyId": 1
-        },
-        {
-            "id": "26",
-            "firstName": "Alex",
-            "age": 24,
-            "companyId": 2
-        },
-        {
-            "id": "28",
-            "firstName": "Harry",
-            "age": 27,
-            "companyId": 1
-        },
-        {
-            "id": "15",
-            "firstName": "Arthur",
-            "age": 22,
-            "companyId": 2
-        }
-    ],
-    "companies": [
-        {
-            "id": "1",
-            "name": "SendGrid",
-            "description": "Email"
-        },
-        {
-            "id": "2",
-            "name": "HP",
-            "description": "Computer"
-        }
-    ]
+  "users": [
+    {
+      "id": "45",
+      "firstName": "Nicole",
+      "age": 25,
+      "companyId": 1
+    },
+    {
+      "id": "26",
+      "firstName": "Alex",
+      "age": 24,
+      "companyId": 2
+    },
+    {
+      "id": "28",
+      "firstName": "Harry",
+      "age": 27,
+      "companyId": 1
+    },
+    {
+      "id": "15",
+      "firstName": "Arthur",
+      "age": 22,
+      "companyId": 2
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "SendGrid",
+      "description": "Email"
+    },
+    {
+      "id": "2",
+      "name": "HP",
+      "description": "Computer"
+    }
+  ]
 }
