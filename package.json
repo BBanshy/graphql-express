@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "standard",
+    "test": "standard --fix",
     "start": "nodemon",
     "json:server": "json-server --watch db.json"
   },

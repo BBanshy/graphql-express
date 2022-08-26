@@ -26,6 +26,7 @@ npm install
 Launch it !
 ---------------
 - You need two terminal windows
+- [standard](https://github.com/standard/standard)
 
 ```sh
 # Start development live-reload server
@@ -34,6 +35,8 @@ npm start
 # Start the json-server for the storage
 npm run json:server
 
+# Launch the "Standard" test 
+npm test
 ```
 
 Endpoints:
