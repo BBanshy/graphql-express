@@ -19,7 +19,8 @@
     "graphql": "^16.6.0",
     "graphql-tag": "^2.12.6",
     "json-server": "^0.17.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.19"
   },
   "devDependencies": {
     "standard": "^17.0.0"
